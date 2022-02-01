@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/taowch/test/_apis/build/status/taowch1985.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/taowch/test/_build/latest?definitionId=6&branchName=main)
 
 # Contributing
 
